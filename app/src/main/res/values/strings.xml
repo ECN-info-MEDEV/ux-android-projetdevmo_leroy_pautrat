@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">TrackAndGraph</string>
+    <string-array name="spinner_array">
+        <item>Flottant</item>
+        <item>Entier</item>
+        <item>Date</item>
+        <item>Booléen</item>
+    </string-array>
 </resources>
